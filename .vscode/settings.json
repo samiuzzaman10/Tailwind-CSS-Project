@@ -1,0 +1,11 @@
+// Solution 1
+// {
+//   "files.associations": {
+//     "*.css": "tailwindcss"
+//   }
+// }
+
+// Solution 2
+{
+  "css.validate": false
+}
